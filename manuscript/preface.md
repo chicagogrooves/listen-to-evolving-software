@@ -19,16 +19,21 @@ A few words about Lean Publication: This book is a work in progress. The LeanPub
 
 A few words about generalization and metaphor: This book is rich in metaphor. At times, you may feel the metaphor is a stretch. And you have a choice how to respond. You can let your intellect reject the thought outright, or you can choose to sit with the thought in your head for a little while, giving it a chance to permeate and possibly create hybrid ideas with your own (Sexual Reproduction of Ideas Chapter X). Write a note about your disagreement to me or yourself, and vow to explore that later, but try to keep an open mind. Minds, like parachutes, function best when open (neuroscience Chapter N).
 
-More than Software Writers, or Software Engineers, I believe we are Software Gardeners - only - with the added risk that our 'trees' will in a few years become self-aware and decide they don't need us anymore! What's life without a little risk though, right ? So please join me on this journey.
+Some have supposed that more than Software Writers, or Software Engineers, we are Software Gardeners. I like that metaphor, but unlike our individual gardens, the software we help to grow, if above a critical size, will *find new gardeners* if we stop gardening it. Not to alarm you, but ask yourself if the software of the company you work for would stop growing if you were to leave. Above a certain size, the answer is definitely no - the garden would *find a new gardener!*
 
-The greatest creative duos are often twosomes of different personalities (Lennon-McCartney), and the greatest inventions like NCSA Mosaic which spawned the entire WWW were simply the swallowing of one idea (the network client) by another (the HyperText engine). Try absorbing new ideas as much as possible. Welcome to the Garden, and lets listen to the leaves and hear what they have to say !
+This may be a flight of fancy, but even if not, I invite you to join me in these fun juxtapositions. The greatest creative duos are often twosomes of different personalities (Lennon-McCartney), and many of the greatest inventions were simply the swallowing of one idea by another - the network client and the HyperText engine in the case of NCSA Mosaic. So try absorbing new ideas as much as possible. Welcome to the Mad Garden, and lets listen to the leaves and hear what they have to say!
 
 Dean Davis Radcliffe
 
-Chapter E: evolution
-Chapter I: immune systems
-Chapter G: growth curves
-Chapter N: neuroscience and the brain
-Chapter U: unknowable deterministic outcomes
-Chapter S: scale-free-networks
-Chapter X: Sexual Reproduction (of Ideas!)
+
+
+* Chapter E: evolution
+* Chapter I: immune systems
+* Chapter G: growth curves
+* Chapter N: neuroscience and the brain
+* Chapter U: unknowable deterministic outcomes
+* Chapter S: scale-free-networks
+* Chapter X: Sexual Reproduction (of Ideas!)
+
+Follow up (TODO ask to reprint, at least pull down)
+http://www.thesoftwaregardener.com/agile/we-are-software-gardeners-developers-plan-to-engineer-but-master-gardening/
