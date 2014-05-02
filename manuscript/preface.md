@@ -7,7 +7,7 @@ Let me assure you, that as much as I may dissect the software beast, and analyze
 
 Then I discovered the World Wide Web. By pure chance, while running programs randomly (in /usr/bin), I launched a program called Mosaic. Soon I was looking at satellite images over different parts of the country. I had seen things like this in Encyclopedias, but these were timestamped to be like 3 minutes ago. Mind = blown ! I looked around me - did other people know you could do this ?
 
-My internship and first job were in web development, and I didn't know what was going to happen, but I enthusiastically practiced my crazy-man pitches with cab drivers. "Have you heard of the Internet? It's the biggest thing since the printing press." This book is the more nuanced examination of that statement. It expands scope, and drops references to 20 years of knowledge I've been exposed to since then - including evolutionary biology, network and graph theory, chaos theory, dynamcal systems, fetal development, genetic algorithms, organizational paradigms, with a measure of my own anecdotal experiences thrown in, to keep it friendly.
+My internship and first job were in web development, and I didn't know what was going to happen, but I enthusiastically told everyone I met that change was coming. "Have you heard of the Internet? It's the biggest thing since the printing press." This book is the more nuanced examination of that statement. It expands scope, and drops references to 20 years of knowledge I've been exposed to since then - including evolutionary biology, network and graph theory, chaos theory, dynamcal systems, fetal development, genetic algorithms, organizational paradigms, with a measure of my own anecdotal experiences thrown in, to keep it friendly.
 
 If you're a recent college grad, the amount of change that happened to me since discovering the WWW as a freshman, to being a Senior Software Engineer (and more, of course, due to growth curves I'll describe in Chapter G) will happen to you before you're 40 years old. And in the who-knows-how-many remaining years you will have (life expectancy Chapter L), the world of technology will turn over many, many times. The shorter the difference in time between 'generations', the faster evolution can occur (Chapter E)
 
@@ -25,14 +25,14 @@ This may be a flight of fancy, but even if not, I invite you to join me in these
 
 Dean Davis Radcliffe
 
-
-
+* Chapter M: mathematical foundations
 * Chapter E: evolution
 * Chapter I: immune systems
 * Chapter G: growth curves
 * Chapter N: neuroscience and the brain
 * Chapter U: unknowable deterministic outcomes
 * Chapter S: scale-free-networks
+* Chapter T: testing of software systems
 * Chapter X: Sexual Reproduction (of Ideas!)
 
 Follow up (TODO ask to reprint, at least pull down)
