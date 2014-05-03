@@ -21,15 +21,15 @@ Sometimes a test-suite is over-zealous, and too closely follows the code. The ne
 Figure A, a strangler-test, taken from a real system.
 
 ````
-// Foo
-Foo.flash = ->
-  $('.flash').fadeIn(600).delay(2000).fadeOut(400)
-  
-// Foo_spec
-Foo.flash()
-expect(stub.fadeIn).toHaveBeenCalledWith(600)
-expect(stub.delay).toHaveBeenCalledWith(2000)
-expect(stub.fadeOut).toHaveBeenCalledWith(400)
+    // Foo
+    Foo.flash = ->
+      $('.flash').fadeIn(600).delay(2000).fadeOut(400)
+      
+    // Foo_spec
+    Foo.flash()
+    expect(stub.fadeIn).toHaveBeenCalledWith(600)
+    expect(stub.delay).toHaveBeenCalledWith(2000)
+    expect(stub.fadeOut).toHaveBeenCalledWith(400)
 
 ````
 In order to judge this code from the level of survival of the organism, we need to ask - is this part of the immune system helping the organism grow safely? What the test wants to say is "When `flash()` is called, a message will fade in, hang around for a while, then fade away" But not only does the test **fail** under imperceptibly small changes to the parameters, it still **passes** even if `fadeIn` `delay` and `fadeOut` are called *in a different order!* As surgeons responsible for operating on our patients, isn't it sometimes time to eradicate an organ that has become a liability ?
