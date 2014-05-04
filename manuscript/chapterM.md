@@ -56,15 +56,15 @@ What "the long run" means depends on the situation. You may be surprised to hear
 
 You'd be 37.8 times better imporving only 1% per day ! Too bad your bank account probably will not compound for 365 straight years.  For comparison, if your bank account experienced only Linear Growth, you would have merely 3.65 times the amount of money. This is the difference between "simple interest" and "compound interest". While it's true that in the short term, a 5% simple-interest account will be more profitable, a 1% compound interest account will eventually overtake. 
 
-This is the essence of Growth Classes - they are only truly useful "in the long run" to describe advantages. But, critically, by understanding the Growth Class a certain process is in, we gain the ability to reason about the long term behavior of a system. If all you know is the Growth Class of a system, as determined by measurements, you may be able to model of the insides of the system merely by analogy with something else in the same Growth class. A single measurement of a system may reveal very little, but the story of its size over time can affirm, or even contradict existing attempts to model the system. And so Growth Class is a very fundamental description of a system indeed.
-
 ### Limits of Explanatory Powers
+
+This is the essence of Growth Classes - they are only truly useful "in the long run" to describe advantages. But, critically, by understanding the Growth Class a certain process is in, we gain the ability to reason about the long term behavior of a system. If all you know is the Growth Class of a system, as determined by measurements, you may be able to model of the insides of the system merely by analogy with something else in the same Growth class. A single measurement of a system may reveal very little, but the story of its size over time can affirm, or even contradict existing attempts to model the system. And so Growth Class is a very fundamental description of a system indeed.
 
 In the marketplace, some lucky companies experience exponential growth in their revenues or stock prices. This is considered a Very Good Thing by investors and owners alike ! The meteoric rise of such stocks as Google, follows a predictable pattern, up to a point, but so far, every meteorically rising company has tapered off in the long run. This seems to imply that the Exponential Growth phase is an unstable one. 
 
 Take the story of the 64-square chessboard on which one grain of wheat is placed on the first square, two grains on the second square, and so forth until it would require more wheat than the entire world produces in a year to cover even half the chessboard. 
 
-Eventually an exponentially growing system will run into some natural limits, exhaust the resources available, or collide with another exponentially growing system. Growth Classes are most useful in predicting a system's behavior in the long run, and in isolation. With many independent entities competing in an environment, concepts from other parts of Mathematics may be more useful - for example, Dynamical Systems
+Eventually an exponentially growing system will run into some natural limits, exhaust the resources available, or collide with another exponentially growing system. Growth Classes are most useful in predicting a system's behavior in the long run, and in isolation. With many independent entities competing in an environment, concepts from other parts of Mathematics may be more useful - for example, Dynamical Systems.
 
 ## Dynamical Systems - From Simplicity, Complexity
 
