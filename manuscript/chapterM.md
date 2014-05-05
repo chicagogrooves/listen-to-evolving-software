@@ -52,7 +52,7 @@ Within a Growth Class there is room for variation. In the bucket-filling scenari
 
 What "the long run" means depends on the situation. You may be surprised to hear, that even with today's low interest rates, that your bank account is in the Exponential Growth class ! It may only grow 1% per year, but since you earn interest on interest, it is in fact exponentially growing. To speed up time a little bit, ponder this - if you get 1% better at something every day for an entire year, by what factor are you better at the end of the year ? 
 
-![1.01 to the 365th power is 38](http://2.bp.blogspot.com/-1MDJwzyC7Hg/UQFE4IcSrUI/AAAAAAAAKCY/aZupk4YtHVM/s1600/add-up.jpg)
+![1.01 to the 365th power is 38](images/1.01-365.jpg)
 
 You'd be 37.8 times better imporving only 1% per day ! Too bad your bank account probably will not compound for 365 straight years.  For comparison, if your bank account experienced only Linear Growth, you would have merely 3.65 times the amount of money. This is the difference between "simple interest" and "compound interest". While it's true that in the short term, a 5% simple-interest account will be more profitable, a 1% compound interest account will eventually overtake. 
 
