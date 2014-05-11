@@ -1,9 +1,9 @@
 preface.md
 chapterE.md
 chapterI.md
-chapterT.md
-chapterS.md
+chapterL.md
 chapterN.md
 chapterU.md
 chapterM.md
+chapterT.md
 conclusion.md

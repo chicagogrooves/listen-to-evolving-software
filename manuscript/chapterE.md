@@ -62,7 +62,7 @@ And yet in that brief time, humans have learned to fly airplanes, build the Inte
 
 Progress builds on progress. And we are at a very interesting time.
 
-It used to be that the only way one generation of living things was enhanced was by the direct passing of genes. Then we evolved the ability to copy what others did by watching mimicry. It still required direct connection between teacher and student, but soon Language enabled us to more compactly represent and recall our experiences, and soon we became able to write it down. Then we could get teachings even from those that were no longer around to teach. 
+It used to be that the only way one generation of living things was enhanced was by the direct passing of genes. Then we evolved the ability to copy what others did by mimicry. It still required direct connection between teacher and student, but soon Language enabled us to more compactly represent and recall our experiences, and soon we became able to write it down. Then we could get teachings even from those that were no longer around to teach. 
 
 Electronic transmission of information was again a game-changer. What Bill Gates called a Digital Nervous System, is functioning exactly as a biological nervous system. The innovation, again, is relaying messages by propogating changes of state instead of actual hard-copy! Humans are now able to cluster along people of their interests over the internet no matter how far apart people with those interests may live. 
 
