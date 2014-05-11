@@ -1,4 +1,5 @@
 preface.md
+chapterE.md
 chapterI.md
 chapterT.md
 chapterS.md
