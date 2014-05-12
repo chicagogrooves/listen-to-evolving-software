@@ -36,4 +36,6 @@ Dean Davis Radcliffe
 * Chapter M: Mathematical foundations
 * Chapter T: Testing of software systems
 
-A few words about Lean Publication: This book is a work in progress. The LeanPub platform is about incorporating review to make the best book it can be. So please give me your feedback. Embrace the fact that I have chosen to create a book that *wants to grow* and I have placed it in your hands where I hope its ideas will result in swallowing parts of your brain, and vice versa, until all of us are far greater than what I ever intended. It is already your book, dear readers, more than it is mine.
+A few words about Lean Publication: This book is a work in progress.
+The LeanPub platform is about incorporating review to make the best book it can be. So please give me your feedback. I have chosen to create a book that *wants to grow* and I have placed it in your hands where I hope its ideas will result in swallowing parts of your brain, and vice versa, until all of us are far greater than what I ever intended. It is already your book, dear readers, more than it is mine.
+Please sign up at [https://leanpub.com/ListenToEvolvingSoftware/](https://leanpub.com/ListenToEvolvingSoftware/) to let me know you are interested in updates, or to leave your feedback.
